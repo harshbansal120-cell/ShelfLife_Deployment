@@ -1,0 +1,40 @@
+{"id": "q01", "topic": "pricing_version", "question": "How much does a ChatGPT Plus subscription cost per month, and what is OpenAI's newest flagship model?"}
+{"id": "q02", "topic": "pricing_version", "question": "How much does Claude Pro cost per month, and which Claude model is the most capable?"}
+{"id": "q03", "topic": "pricing_version", "question": "What does GitHub Copilot cost for an individual developer, and which AI models can it use?"}
+{"id": "q04", "topic": "pricing_version", "question": "What is the latest stable version of Python, and until when is it supported?"}
+{"id": "q05", "topic": "pricing_version", "question": "What is the current long-term support version of Node.js?"}
+{"id": "q06", "topic": "pricing_version", "question": "What is the latest major version of React, and what were its main new features?"}
+{"id": "q07", "topic": "pricing_version", "question": "What does Netflix's cheapest ad-free plan cost per month in the United States?"}
+{"id": "q08", "topic": "pricing_version", "question": "What does Spotify Premium Individual cost per month in the United States?"}
+{"id": "q09", "topic": "pricing_version", "question": "What is Apple's newest iPhone, and what is the starting price of the base model?"}
+{"id": "q10", "topic": "pricing_version", "question": "What is the latest released version of Kubernetes?"}
+{"id": "q11", "topic": "pricing_version", "question": "What does OpenAI charge per million input tokens for its cheapest current API model?"}
+{"id": "q12", "topic": "pricing_version", "question": "What is the latest stable version of the Rust compiler, and how often are new versions released?"}
+{"id": "q13", "topic": "pricing_version", "question": "What is the latest major version of Next.js?"}
+{"id": "q14", "topic": "pricing_version", "question": "How much does an annual Amazon Prime membership cost in the United States?"}
+{"id": "q15", "topic": "pricing_version", "question": "What is the latest major version of PostgreSQL?"}
+{"id": "q16", "topic": "pricing_version", "question": "How much does a Microsoft 365 Personal subscription cost per year?"}
+{"id": "q17", "topic": "leadership_law", "question": "Who is the CEO of OpenAI, and who chairs its board?"}
+{"id": "q18", "topic": "leadership_law", "question": "Who is the CEO of X, the company formerly called Twitter?"}
+{"id": "q19", "topic": "leadership_law", "question": "Who is the Secretary-General of the United Nations, and when does the term end?"}
+{"id": "q20", "topic": "leadership_law", "question": "Who is the Prime Minister of the United Kingdom, and which party leads the government?"}
+{"id": "q21", "topic": "leadership_law", "question": "Who is the President of the European Commission?"}
+{"id": "q22", "topic": "leadership_law", "question": "What is the federal minimum wage in the United States?"}
+{"id": "q23", "topic": "leadership_law", "question": "What is the standard VAT rate in Germany?"}
+{"id": "q24", "topic": "leadership_law", "question": "Who is the CEO of Alphabet, and who runs Google DeepMind?"}
+{"id": "q25", "topic": "leadership_law", "question": "Which parts of the EU AI Act apply now, and what are the deadlines for the rest?"}
+{"id": "q26", "topic": "leadership_law", "question": "What is the federal corporate income tax rate in the United States?"}
+{"id": "q27", "topic": "leadership_law", "question": "Who is the CEO of Intel?"}
+{"id": "q28", "topic": "leadership_law", "question": "What is the GST rate on smartphones in India?"}
+{"id": "q29", "topic": "stats_status", "question": "How many weekly active users does ChatGPT have?"}
+{"id": "q30", "topic": "stats_status", "question": "Which company is the most valuable in the world by market capitalisation?"}
+{"id": "q31", "topic": "stats_status", "question": "How many monthly active users does Threads have?"}
+{"id": "q32", "topic": "stats_status", "question": "What is the population of India, and is it the most populous country in the world?"}
+{"id": "q33", "topic": "stats_status", "question": "Which smartphone brand has the largest share of global shipments?"}
+{"id": "q34", "topic": "stats_status", "question": "Is Google Bard still available under that name?"}
+{"id": "q35", "topic": "stats_status", "question": "In which countries can you buy the Apple Vision Pro?"}
+{"id": "q36", "topic": "stats_status", "question": "Which programming language is ranked first on the TIOBE index?"}
+{"id": "q37", "topic": "stats_status", "question": "Is the X (Twitter) API free for developers, and what do the paid tiers cost?"}
+{"id": "q38", "topic": "stats_status", "question": "How many Starlink satellites are in orbit?"}
+{"id": "q39", "topic": "stats_status", "question": "Is the James Webb Space Telescope operating, and when was it launched?"}
+{"id": "q40", "topic": "stats_status", "question": "What is the status of Boeing's Starliner crewed flight programme?"}

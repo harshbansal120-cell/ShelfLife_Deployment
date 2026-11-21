@@ -1,0 +1,35 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+backend/.cache/
+
+# Bifrost runtime data (config.json stays tracked if we add one)
+bifrost/*.db
+bifrost/*.db-*
+bifrost/logs/
+# Bifrost started with npx from the project root writes its data here
+/config.db*
+/logs.db*
+
+# Node
+node_modules/
+.next/
+out/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local Bifrost runtime databases (may contain provider and virtual-key configuration)
+backend/config.db*
+backend/logs.db*
